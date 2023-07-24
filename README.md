@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YonatanEisenstein
-- 👀 I’m interested in Data Analysis, Data Science & Machine Learning
-- 🌱 I’m currently learning a lot of cool ML and DL staff at Yandex's practicum100, and a lot of cool Math and Programming staff at OpenU of Israel. 
-- 💞️ I’m looking to collaborate on any DA/DS/ML/DL project, but I'm especially interested in the Health, Finance and Security industries.
+- 👀 I’m interested in Data Science, Machine & Deep Learning
+- 🌱 I’m currently working as Data Scientist @ Bank Leumi, where I develop a wide range of projects from credit pricing using classic ML methods to NLP using transformers
+- 💞️ I’m very curious and open to collaborating on any interesting DA/DS/ML/DL project
 - 📫 You can reach me out at yehonatane10@gmail.com
 
 <!---
